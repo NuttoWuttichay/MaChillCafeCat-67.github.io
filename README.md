@@ -1,4 +1,50 @@
-﻿# MaChill Cafe Cat 
+# 🐾 MaChill Cafe Cat
 
-MaChill Cafe Cat Website By.
-Mino 67125520 Rawisara Sangsai and Nutto 67125537 Wuttichay Polkunthod
+ยินดีต้อนรับสู่โปรเจกต์เว็บไซต์ **MaChill Cafe Cat** คาเฟ่แมวสุดชิลล์ เว็บไซต์นี้พัฒนาขึ้นเพื่อนำเสนอข้อมูลของร้าน เมนูสินค้า และแนะนำน้องแมวประจำร้าน ผ่านการออกแบบหน้าเว็บที่สวยงามและใช้งานง่าย
+
+👉 **[คลิกที่นี่เพื่อเข้าชมเว็บไซต์ (Live Demo)](https://RawisaraSangsai.github.io/MaChillCafeCat-67.github.io/)**
+
+---
+
+👥 ผู้จัดทำ (Team Members)
+- 67125520 รวิสรา แสงใส [GitHub Profile](https://github.com/RawisaraSangsai)
+- 67125537 วุฒติชัย พลขุนทด [GitHub Profile](https://github.com/NuttoWuttichay)
+
+---
+
+## 📑 หน้าเว็บและฟีเจอร์หลัก (Features)
+
+โครงสร้างเว็บไซต์ประกอบด้วยหน้าต่างๆ ดังนี้:
+- 🏠 **หน้าหลัก (`index.html`)**: หน้าต้อนรับ นำเสนอภาพรวมบรรยากาศคาเฟ่
+- ℹ️ **เกี่ยวกับเรา (`about.html`)**: ประวัติความเป็นมาและคอนเซปต์ของร้าน
+- 🍰 **เมนูสินค้า (`product.html`)**: รายการเครื่องดื่ม ของหวาน และสินค้าต่างๆ
+- 🐈 **พนักงานของเรา (`staff.html`)**: แนะนำแก๊งน้องแมวสุดน่ารักประจำร้าน
+- 📞 **ติดต่อเรา (`contact.html`)**: ข้อมูลการติดต่อ แผนที่ และช่องทางโซเชียลมีเดีย
+- 🔐 **เข้าสู่ระบบ (`login.html`)**: หน้าสำหรับลงชื่อเข้าใช้งานเว็บไซต์
+
+---
+
+## 🛠️ เทคโนโลยีที่ใช้ (Technologies Used)
+
+- **HTML5**: โครงสร้างหลักของหน้าเว็บเพจ
+- **CSS3 & Bootstrap**: การตกแต่งสไตล์และจัดเลย์เอาต์ให้รองรับทุกหน้าจอ (Responsive Design)
+- **JavaScript**: เพิ่มการโต้ตอบและลูกเล่นบนหน้าเว็บ
+
+---
+
+## 📂 โครงสร้างไฟล์ (Project Structure)
+
+```text
+MaChillCafeCat-67.github.io/
+├── bootstarp/           # ไลบรารี Bootstrap CSS/JS
+├── images/              # รูปภาพประกอบทั้งหมดที่ใช้ในเว็บไซต์
+├── live-dinner/         # ไฟล์และเทมเพลตส่วนประกอบเสริม
+├── index.html           # หน้าแรกของเว็บไซต์
+├── about.html           # หน้าข้อมูลเกี่ยวกับร้าน
+├── product.html         # หน้าเมนูสินค้า
+├── staff.html           # หน้าแนะนำน้องแมว (Staff)
+├── contact.html         # หน้าช่องทางการติดต่อ
+├── login.html           # หน้าเข้าสู่ระบบ
+├── style(login).css     # สไตล์ชีทเฉพาะหน้า Login
+└── README.md            # รายละเอียดโปรเจกต์
+
