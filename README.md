@@ -2,7 +2,7 @@
 
 ยินดีต้อนรับสู่โปรเจกต์เว็บไซต์ **MaChill Cafe Cat** คาเฟ่แมวสุดชิลล์ เว็บไซต์นี้พัฒนาขึ้นเพื่อนำเสนอข้อมูลของร้าน เมนูสินค้า และแนะนำน้องแมวประจำร้าน ผ่านการออกแบบหน้าเว็บที่สวยงามและใช้งานง่าย
 
-👉 **[คลิกที่นี่เพื่อเข้าชมเว็บไซต์ (Live Demo)](https://RawisaraSangsai.github.io/MaChillCafeCat-67.github.io/)**
+👉 **[คลิกที่นี่เพื่อเข้าชมเว็บไซต์ (Live Demo)](https://NuttoWuttichay.github.io/MaChillCafeCat-67.github.io/)**
 
 ---
 
